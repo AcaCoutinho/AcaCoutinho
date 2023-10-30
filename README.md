@@ -42,4 +42,7 @@ Here are some ideas to get you started:
   <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acacoutinho&show_icons=true&locale=en&layout=compact" alt="acacoutinho" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acacoutinho&show_icons=true&locale=en" alt="acacoutinho" /></p>
 
