@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">Software Engineering Student</h3>
 
 <h2 align="left">About me:</h2>
-- 🔭 I’m currently a Software Enginnering Student @ ISEC
-- 🌱 I’m currently learning Unity Game Development
+<p>- 🔭 I’m currently a Software Enginnering Student @ ISEC</p>
+<p>- 🌱 I’m currently learning Unity Game Development</p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
