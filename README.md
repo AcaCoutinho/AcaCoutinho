@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK" width="600ox" height="400px"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1200px" height="300px"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Acácio Coutinho</h1>
