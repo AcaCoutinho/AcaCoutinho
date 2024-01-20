@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">Hi 👋, I'm Acácio Coutinho</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Software Developer</h3>
 
 <h2 align="left">About me:</h2>
 <p>- 🔭 Recent graduate in Software Enginnering</p>
