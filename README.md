@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <h2 align="left">About me:</h2>
 <p>- 🔭 Recent graduate in Software Enginnering</p>
+<p>- ⌨️ I'm currently working on a BeerBot for Discord</p>
 <p>- 🌱 I’m currently learning Unity Game Development</p>
-<p>- 🌱 Also learning React.js + Typescript + Tailwind CSS</p>
+<!--<p>- 🌱 Also learning React.js + Typescript + Tailwind CSS</p>-->
 
 <h2 align="left">💻 Tech Stack:</h2>
 <p align="left">
